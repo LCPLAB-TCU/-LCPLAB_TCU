@@ -1,0 +1,11 @@
+---
+title: "實驗室介紹"
+description: |
+  語言與認知歷程實驗室由慈濟大學人類發展與心理學系[陳紹慶老師](https://scchen.com/)主持。
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+

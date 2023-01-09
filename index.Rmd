@@ -1,0 +1,18 @@
+---
+title: "語言與認知歷程實驗室開放網站"
+description: |
+  本實驗室透過心智模擬取向探討人類語言理解課題，採用開放及可重製操作進行實驗研究及理論建模。
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

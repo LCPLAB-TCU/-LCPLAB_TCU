@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "實驗室介紹",
+      "description": "語言與認知歷程實驗室由慈濟大學人類發展與心理學系[陳紹慶老師](https://scchen.com/)主持。",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-09T09:42:49+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "語言與認知歷程實驗室開放網站",
+      "description": "本實驗室透過心智模擬取向探討人類語言理解課題，採用開放及可重製操作進行實驗研究及理論建模。\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-09T09:42:08+08:00"
+    },
+    {
+      "path": "project.html",
+      "title": "專案介紹",
+      "description": "本實驗室正在進行的專案及發表成果。",
+      "author": [],
+      "contents": "\r\nHow would the mental simulation of nominal phrase operate in the sentence?\r\n\r\n\r\n\r\nFigure 1: 句子-圖像辨識作業程序及刺激範例(Chen et al., under revision)。\r\n\r\n\r\n\r\n句子中的名詞化短語啟動或增益心智模擬的條件\r\n測量各式句子-圖像辨別作業的心智模擬效應\r\n改進心智模擬效應的分析方法\r\n貝氏混合模型分析\r\n跨實驗整合分析\r\n\r\n可估計心智模擬效應的計量模型\r\nHow would a nominal phrase initiate mental simulation?\r\n\r\n\r\n\r\nFigure 2: 名詞化片語視覺化作業認知歷程假設及實驗程序(Bocanegra et al., 2022)。\r\n\r\n\r\n\r\n名詞化短語表達特徵的視覺化歷程\r\n測量視覺化作業的雙特徵效益/虧損條件\r\n改進雙特徵效益/虧損的分析方法\r\n可估計雙特徵效益/虧損的計量模型\r\nHow could a nominal phrase initiate the strongest/weakest perceptual experience?\r\n\r\n\r\n\r\nFigure 3: 動作經驗量表及資料庫特徵向度分析(Lynott et al., 2020)。\r\n\r\n\r\n\r\n名詞化短語的個體知覺及動作經驗\r\n測量知覺經驗量表的最優知覺強度\r\n改進最優知覺強度的分析方法\r\n建立名詞化短語最優知覺強度的資料庫\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-09T10:19:31+08:00"
+    }
+  ],
+  "collections": []
+}
